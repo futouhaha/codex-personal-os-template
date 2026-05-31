@@ -1,0 +1,11 @@
+.DS_Store
+.env
+.env.*
+auth.json
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+logs/
+tmp/
+.codex-global-state.json
+.codex-global-state.json.bak
